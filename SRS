@@ -1,0 +1,42 @@
+INTRODUCTION
+
+A software developer's portfolio is something some people find important and others don't even look at. I think a project porfolio demonstrating your front end skills is always good, however I think what is most important is how a developer works in the professional world.
+This starts with receiving the design idea and creating tasks and continues until the user is 100% satisfied with us product and its support. 
+The idea for this portfolio project is to showcase how I work and the quality of work I can do under time constraints.
+
+CUSTOMERS
+
+People looking at my profile could be anyone from the public. Developers looking for ideas, hiring managers looking for their star developer. 
+
+FUNCTIONALITY
+
+Be able to present :
+-My personality
+-My skills
+-My workflow and way of doing things
+-Learning and carreer opportunity
+
+PLATFORM
+
+My portfolio will be developed in React JS. It should demonstrate back-end capabilities and dynamic forms, using custom CSS and also Material-UI. Firebase will most likely be used as a dynamic database and hosting opportunity.
+
+RESPONSABILITIES
+
+Marc-Antoine Jeanson should be the sole developer and designer of this project and will write all the code involved in the front-end and back-end. The code will not be owned by anyone and will be open-source.
+
+CLASSES AND CHARACTERISTICS 
+
+Dynamic portfolio presentation linked with the workflow
+
+-todo
+
+FUNCTIONAL REQUIREMENTS
+PERFORMANCE REQUIREMENTS
+SAFETY/SECURITY REQUIREMENTS
+
+-todo
+
+HARDWARE INTERFACES
+
+Website accessible and viewable on all platform sizes (mobile to large screens)
+
